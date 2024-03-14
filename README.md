@@ -3,7 +3,7 @@
 
 <h2> I'm Affa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>Software Enginner at <a href="https://www.akprind.ac.id/">Institute Sains & Technology Akprind Yogyakarta</a><img src=https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif width="30"><img src="/me.jpg" width="230" align="right"> 
+<p><em>Informatics, Software Engineer at <a href="https://www.akprind.ac.id/">Institute of Science & Technology Akprind Yogyakarta</a><img src=https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif width="30"><img src="/me.jpg" width="230" align="right"> 
 </em></p>
 
 [![GitHub Affa](https://img.shields.io/github/followers/avaxyz?label=follow&style=social)](https://github.com/avaxyz)
