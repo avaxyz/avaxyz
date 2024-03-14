@@ -2,13 +2,14 @@
 ![Gambaran Daerah Rumahku!](/san-juan-mountains.avif)
 
 <h2> I'm Affa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.akprind.ac.id/">Institute Sains & Technology Akprind Yogyakarta</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+
+<p><em>Software Enginner at <a href="https://www.akprind.ac.id/">Institute Sains & Technology Akprind Yogyakarta</a><img src="/me.jpg" width="230" align="right"></em></p>
 
 [![GitHub Affa](https://img.shields.io/github/followers/avaxyz?label=follow&style=social)](https://github.com/avaxyz)
 [![Instagram Badge](https://img.shields.io/badge/-affaadiba-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/affadiba/)](https://instagram.com/affaadiba)
 
-
+https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif
+img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
