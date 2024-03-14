@@ -36,24 +36,27 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating, im
 </p>
 
 <details>
-  <summary><b>Tools</b></summary>
+  <summary><b>Apps</b></summary>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="130" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="120" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" width="120" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" width="120" height="30" style="vertical-align:down; margin:2px">
 
+</details>
+
+
+<details>
+  <summary><b>Tools</b></summary>
 <!-- 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
 -->
-
-
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="100" height="30" style="vertical-align:down; margin:2px">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="80" height="30" style="vertical-align:down; margin:2px">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="30" style="vertical-align:down; margin:2px">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100" height="30" style="vertical-align:down; margin:2px">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="80" height="30" style="vertical-align:down; margin:2px">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="130" height="30" style="vertical-align:down; margin:2px">
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="120" height="30" style="vertical-align:down; margin:2px">
-<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" width="120" height="30" style="vertical-align:down; margin:2px">
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" width="120" height="30" style="vertical-align:down; margin:2px">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="80" height="30" style="vertical-align:down; margin:2px">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="80" height="30" style="vertical-align:down; margin:2px">
 
