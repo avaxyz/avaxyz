@@ -22,7 +22,7 @@ I like about :bar_chart:Data Science, automating, improving and optimizing syste
 
 <hr>
 
-## ⚡ Technologies Favourites
+## ⚡ Favorites
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/avaxyz)
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="70" height="30" style="vertical-align:down; margin:2px">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="70" height="30" style="vertical-align:down; margin:2px">
