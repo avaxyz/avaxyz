@@ -58,7 +58,7 @@ I like about :bar_chart:Data Science, automating, improving and optimizing syste
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="100" height="30" style="vertical-align:down; margin:2px">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="80" height="30" style="vertical-align:down; margin:2px">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="30" style="vertical-align:down; margin:2px">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="80" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="90" height="30" style="vertical-align:down; margin:2px">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="80" height="30" style="vertical-align:down; margin:2px">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="80" height="30" style="vertical-align:down; margin:2px">
 
