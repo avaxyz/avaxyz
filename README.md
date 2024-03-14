@@ -34,7 +34,7 @@ I like about :bar_chart:Data Science, automating, improving and optimizing syste
 
 <p align="left">
 <a href="https://github.com/avaxyz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avaxyz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avaxyz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
