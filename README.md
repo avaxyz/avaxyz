@@ -22,10 +22,10 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating, im
 
 ## ⚡ Technologies Favourites
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/avaxyz)
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="50" height="20" style="vertical-align:down; margin:4px">
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="50" height="20" style="vertical-align:down; margin:4px">
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="70" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="70" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="75" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="70" height="30" style="vertical-align:down; margin:2px">
  
 ### Github Statistic
 
@@ -38,14 +38,30 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating, im
 <details>
   <summary><b>Tools</b></summary>
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+<!-- 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="80" height="20" style="vertical-align:down; margin:4px">
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
+-->
 
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="100" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="80" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="80" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="130" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="120" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" width="120" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" width="120" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="80" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="80" height="30" style="vertical-align:down; margin:2px">
+
+<!-- 
 <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
+-->
 </details>
 
 
