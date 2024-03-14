@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Gambaran Daerah Rumahku!](/san-juan-mountains.jpg)
 
+![Gambaran Daerah Rumahku!](/san-juan-mountains.jpg)
 <h2> I'm Affa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p><em>I am a Computer Science student at <a href="https://www.akprind.ac.id/">Institute of Science & Technology Akprind Yogyakarta</a> with a passion for exploring the world of information technology. I am enthusiastic about continuous learning and growth in this industry
@@ -10,7 +10,6 @@
 [![GitHub Affa](https://img.shields.io/github/followers/avaxyz?label=follow&style=social)](https://github.com/avaxyz)
 [![Instagram Badge](https://img.shields.io/badge/-affaadiba-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/affadiba/)](https://instagram.com/affaadiba)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/track/3nH6JdYvrM7cnLT7xMrEKX?si=d6ff6e94cc0f4af7")
-
 <img src="/me.jpg" width="230" align="right"> 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me....
