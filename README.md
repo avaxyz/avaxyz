@@ -42,8 +42,8 @@ I like about :bar_chart:Data Science, automating, improving and optimizing syste
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100" height="30" style="vertical-align:down; margin:2px">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="130" height="30" style="vertical-align:down; margin:2px">
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="120" height="30" style="vertical-align:down; margin:2px">
-<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" width="120" height="30" style="vertical-align:down; margin:2px">
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" width="120" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" width="130" height="30" style="vertical-align:down; margin:2px">
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" width="130" height="30" style="vertical-align:down; margin:2px">
 </details>
 
 
