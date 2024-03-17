@@ -3,7 +3,7 @@
 ![Gambaran Daerah Rumahku!](/san-juan-mountains.jpg)
 <h2> I'm Affa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>I am a Computer Science student at <a href="https://www.akprind.ac.id/">Institute of Science & Technology Akprind Yogyakarta</a> with a passion for exploring the world of information technology. I am enthusiastic about continuous learning and growth in this industry
+<p><em>I am a Computer Science student at <a href="https://www.akprind.ac.id/">Universitas Akprind Indonesia</a> with a passion for exploring the world of information technology. I am enthusiastic about continuous learning and growth in this industry
  <img src=https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif width="30">
 </em></p>
 
