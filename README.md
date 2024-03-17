@@ -16,7 +16,7 @@
 
 My Name is **Affa Hurrarul**.<br>
 I like about :bar_chart:Data Science, automating, improving and optimizing systems. I am a Strong Advocate for 📜open source, :cloud:Cloud computing, and many more. I like to study new things 💻
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Data Science**
+<!--- - :bulb: I'm interested in all things data: **Big Data, Cloud, Data Science** -->
 - 💬 Talk to me about Novel 📘, Movies 🎥, K-Dramas🎥
 - 🔥 I really love the thrill of making what I want possible!
 
